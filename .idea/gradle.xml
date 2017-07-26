@@ -9,7 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/baidusdkdome" />
+            <option value="$PROJECT_DIR$/baidumaplibrary" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
